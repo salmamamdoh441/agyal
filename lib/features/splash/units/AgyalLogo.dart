@@ -7,7 +7,7 @@ class _AgyalLogo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
         child: SizedBox(
-        height: 50.h,
+        height: 80.h,
         child:   AnimatedSplashScreen(
         centered: true,
         duration:4000 ,

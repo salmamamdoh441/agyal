@@ -37,6 +37,8 @@ dependencies:
   device_preview:
   sizer:
   animated_splash_screen:
+  otp_text_field: ^1.1.2
+
   flutter_svg:
   google_fonts:
 dev_dependencies:

@@ -5,7 +5,7 @@ class PowerLogo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
      return Padding(
-        padding:  EdgeInsets.only(top: 15.h,bottom: 3.h),
+        padding:  EdgeInsets.only(top: 5.h,),
     child: Align(alignment: Alignment.bottomCenter,
     child: Image.asset('assets/images/power.png'),
     )
